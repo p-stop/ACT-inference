@@ -1,0 +1,5 @@
+logs/
+obs_compare/
+test_ckpt/
+__pycache__/
+*.pyc
